@@ -7,5 +7,6 @@ String = "java";
 
 int = 30
 Int I = 100;
+Int k = 222;
 
 } 
